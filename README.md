@@ -46,7 +46,8 @@ Figma, Balsamiq, Adobe XD, Sketch, Wireframe.cc, Lucidchart, Axure RP, and Whims
 2. Iterate Quickly and Cheaply: Designers can easily make changes in wireframes without affecting visuals or code. This allows for rapid feedback loops in early stages.
    -  Example: Changing layout direction after stakeholder input without affecting design assets.
 ### Real-World Scenario
-#### Online Appointment Booking System for a Healthcare Clinic: During the early design phase, the UX team created low-fidelity wireframes for the booking interface. These were reviewed in a stakeholder and user feedback session before visual design or development began.
+#### Online Appointment Booking System for a Healthcare Clinic
+During the early design phase, the UX team created low-fidelity wireframes for the booking interface. These were reviewed in a stakeholder and user feedback session before visual design or development began.
 - Navigation was improved with "Back" and "Edit" buttons, allowing users to revise earlier steps easily.
 - The layout was redesigned into separate screens per task for mobile.
 - Calendar selection was simplified to use one-day-at-a-time view with swipe support.
